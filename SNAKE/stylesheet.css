@@ -1,0 +1,17 @@
+#pos{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:90vh;
+
+}
+
+#grid{
+    background-color: black;
+}
+
+#text{
+    font-family: cursive;
+    font-size: 200%;
+    padding: 10px;
+}
